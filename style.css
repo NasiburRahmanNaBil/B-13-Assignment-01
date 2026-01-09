@@ -2,6 +2,11 @@
 margin: 0;
 padding: 0;
 }
+
+.inter{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+}
 .nav-container{
     display: flex;
     justify-content: space-around;
